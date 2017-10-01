@@ -1,0 +1,19 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "[![N|Solid](https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67)](https://deminoth.github.io/redux/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjrwlgns1198/CNU-Redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjrwlgns1198/CNU-Redux/issues"
+  },
+  "homepage": "https://github.com/tjrwlgns1198/CNU-Redux#readme"
+}
